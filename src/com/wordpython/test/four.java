@@ -2,7 +2,7 @@ package com.wordpython.test;
 /*
  * idea中创建的类
  */
-public class two {
+public class four {
 	public void first() {
 		System.out.println("eclipse中写的方法");
 	}
