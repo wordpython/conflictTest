@@ -1,7 +1,7 @@
 package com.wordpython.test;
 /*
-idea
- */中创建的方法
+idea中创建的方法
+ */
 public class two {
 	public void first() {
 		System.out.println("eclipse中写的方法");
