@@ -1,8 +1,8 @@
 package com.wordpython.test;
 /*
- * eclipse中创建的类
+ * eclipse中创建的方类
  */
-public class two {
+public class three {
 	public void first() {
 		System.out.println("eclipse中写的方法");
 	}
