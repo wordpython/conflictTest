@@ -5,6 +5,6 @@ public class one {
 		System.out.println("eclipse中写的方法");
 	}
 	public void first1() {
-		System.out.println("eclipse中写的方法,第二个方法 ");
+		System.out.println("eclipse中写的方法,第二个方法");
 	}
 }
