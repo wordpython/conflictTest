@@ -1,6 +1,6 @@
 package com.wordpython.test;
 /*
- * eclipse中创建的类
+ * idea中创建的类
  */
 public class two {
 	public void first() {
